@@ -1,8 +1,5 @@
 ### Hello there 👋 
-<h1>Developer</h1>
-<p>*Using Unity Engine, Flutter, Vue js, Codeigniter .. .</p>
-<p>* and currently learning the Godot Engine, </p>
-<hr>
+
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/pholoshos)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/pholoshos)](https://badges.pufler.dev)
@@ -13,4 +10,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=pholoshos&show_icons=true&theme=default)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pholoshos&layout=compact)](https://github.com/pholoshos/github-readme-stats)
+<hr>
+<h1>Developer</h1>
+<p>*Using Unity Engine, Flutter, Vue js, Codeigniter .. .</p>
+<p>* and currently learning the Godot Engine, </p>
 
