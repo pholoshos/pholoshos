@@ -1,7 +1,7 @@
 ### Hello there 👋 
 <h1>Developer</h1>
 <p>*Using Unity Engine, Flutter, Vue js, Codeigniter .. .</p>
-<p>* and currently learning the Godot Engine, E</p>
+<p>* and currently learning the Godot Engine, </p>
 <hr>
 
 [![Years Badge](https://badges.pufler.dev/years/pholoshos)](https://badges.pufler.dev)
