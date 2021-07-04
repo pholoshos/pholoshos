@@ -11,7 +11,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pholoshos&layout=compact)](https://github.com/pholoshos/github-readme-stats)
 <hr>
-<h2>Stuff I am normally use</h2>
+<h2>Stuff I normally use</h2>
 <p>*Using Unity Engine, Flutter,react native, Vue js, Codeigniter .. .</p>
 <h2>Languages</h2>
 <p>php, python, java, javascript , c#, godotScript, dart , Rust ..  .</p>
