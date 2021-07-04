@@ -14,6 +14,6 @@
 <h2>Stuff I am normally use</h2>
 <p>*Using Unity Engine, Flutter,react native, Vue js, Codeigniter .. .</p>
 <h2>Languages</h2>
-<p>php, python, java, javascript , c#, godotScript , Rust ..  .</p>
+<p>php, python, java, javascript , c#, godotScript, dart , Rust ..  .</p>
 <p>* and currently learning the Godot Engine, </p>
 
