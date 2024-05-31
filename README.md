@@ -1,7 +1,5 @@
 # Hey there! 👋 I'm Pholosho Seloane
 
-# Welcome to My GitHub Profile!
-
 ## About Me
 
 Hello! I'm Pholosho Seloane, a passionate full-stack developer with a love for building dynamic, responsive web and mobile applications. With experience in a variety of technologies, I enjoy creating efficient and scalable solutions to complex problems. 
@@ -26,11 +24,11 @@ I'm always open to discussing new projects, collaborations, or opportunities. Do
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pholoshos&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pholoshos&layout=compact&theme=radical)
 
 ---
 
