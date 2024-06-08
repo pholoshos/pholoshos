@@ -7,7 +7,7 @@ Hello! I'm Pholosho Seloane, a passionate full-stack developer with a love for b
 ## Skills and Technologies
 
 ### Front-End Development
-- **React**: Building interactive UIs, handling state management with Redux, and leveraging hooks for functional components.
+- **React**: Building interactive UIs, handling state management, and leveraging hooks for functional components.
 - **Svelte**: Crafting highly efficient and easy-to-maintain applications with Svelte's intuitive API.
 - **React Native**: Developing cross-platform mobile applications with a focus on performance and a native feel.
 - **Flutter**: Developing cross-platform mobile applications with a focus on a native experience.
