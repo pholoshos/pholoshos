@@ -20,18 +20,4 @@ Hello! I'm Pholosho Seloane, a passionate full-stack developer with a love for b
 - **Go**: Building high-performance and scalable applications with Go's concurrency model.
 - **Python**: Crafting versatile and powerful applications, from web development with Django/Flask to data analysis and machine learning.
 
-## Let's Connect!
 
-I'm always open to discussing new projects, collaborations, or opportunities. Don't hesitate to drop me a message!
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pholoshos&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pholoshos&layout=compact&theme=radical)
-
----
-
-Thank you for visiting my GitHub profile! Happy coding! 🚀
