@@ -1,9 +1,4 @@
 # Hey there! 👋 I'm Pholosho Seloane
-
-## About Me
-
-Hello! I'm Pholosho Seloane, a passionate full-stack developer with a love for building dynamic, responsive web and mobile applications. With experience in a variety of technologies, I enjoy creating efficient and scalable solutions to complex problems. 
-
 ## Skills and Technologies
 
 ### Front-End Development
