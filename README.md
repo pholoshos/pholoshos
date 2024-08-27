@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Pholosho Seloane
+# Hey there
 ## Skills and Technologies
 
 ### Front-End Development
