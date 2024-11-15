@@ -1,6 +1,3 @@
-# Hey there
-## Skills and Technologies
-
 ### Front-End Development
 - **React**: Building interactive UIs, handling state management, and leveraging hooks for functional components.
 - **Svelte**: Crafting highly efficient and easy-to-maintain applications with Svelte's intuitive API.
